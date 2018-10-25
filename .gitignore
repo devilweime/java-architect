@@ -1,0 +1,17 @@
+#忽略规则
+
+#Intellij project files
+/**/.idea
+/**/.iml
+
+#eclipse
+/**/*.settings
+
+#svn
+/**/*.svn
+
+#maven
+/**/target
+/**/*.classpath
+/**/*.project
+
